@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall-logger/gmall-logger.iml" filepath="$PROJECT_DIR$/gmall-logger/gmall-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gmall-parent.iml" filepath="$PROJECT_DIR$/.idea/gmall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-publisher/gmall-publisher.iml" filepath="$PROJECT_DIR$/gmall-publisher/gmall-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall_realtime/gmall_realtime.iml" filepath="$PROJECT_DIR$/gmall_realtime/gmall_realtime.iml" />
+    </modules>
+  </component>
+</project>
